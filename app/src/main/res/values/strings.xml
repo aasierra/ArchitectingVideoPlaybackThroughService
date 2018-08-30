@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ArchitectingVideoPlaybackExample</string>
+    <string name="stop_player">Stop player</string>
+    <string name="stop">Stop</string>
+</resources>
